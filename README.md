@@ -21,3 +21,6 @@ In future we will add the database and login so that it will be saved forever
 ## Output :
 
 ![alt text](image.png)
+
+> [!Note]
+> This is the website have a visit : https://manaswini013.github.io/Medical-Inventory/ 
